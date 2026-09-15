@@ -1,0 +1,15 @@
+2026-07-23 13:18:02  motion detected -> recordings/20260723_131802.avi
+2026-07-23 18:33:12  motion detected -> recordings/20260723_183312.avi
+2026-07-23 18:33:39  motion detected -> recordings/20260723_183339.avi
+2026-07-23 18:33:51  motion detected -> recordings/20260723_183351.avi
+2026-07-23 18:34:00  motion detected -> recordings/20260723_183400.avi
+2026-07-23 18:34:08  motion detected -> recordings/20260723_183408.avi
+2026-07-23 18:34:40  motion detected -> recordings/20260723_183440.avi
+2026-07-23 18:34:55  motion detected -> recordings/20260723_183455.avi
+2026-07-23 18:35:12  motion detected -> recordings/20260723_183512.avi
+2026-09-02 18:29:09  motion detected -> recordings/20260902_182909.avi
+2026-09-02 18:29:26  motion detected -> recordings/20260902_182926.avi
+2026-09-02 18:29:32  motion detected -> recordings/20260902_182932.avi
+2026-09-02 18:29:42  motion detected -> recordings/20260902_182942.avi
+2026-09-02 18:30:13  motion detected -> recordings/20260902_183013.avi
+2026-09-02 18:30:28  motion detected -> recordings/20260902_183028.avi
