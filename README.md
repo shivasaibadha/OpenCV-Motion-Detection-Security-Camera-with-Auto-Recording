@@ -56,4 +56,4 @@ Use cameras only where you have permission and provide appropriate notice to peo
 
 ## License
 
-No `LICENSE` file was visible in the repository when this README was prepared. Add a license file if you want to specify how others may use, modify, or distribute the project.
+This project is open-sourced under the terms of the MIT License.
